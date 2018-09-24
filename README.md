@@ -1,3 +1,3 @@
 # testMEANApiCRM
 
-http://fomaexpressmongong.openode.io
+http://weqweqwe.us.openode.io
